@@ -5,7 +5,7 @@ function highlight() {
     //Write your code here
 	st.forEach(el =>{
 	link.addEventListener("mouseover",()=>{
-	el.style.color = "blue"
+	el.style.color = "green"
 		})
 	})
 }
